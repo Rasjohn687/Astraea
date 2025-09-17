@@ -1,0 +1,4 @@
+teams.student.win2.WIN2
+100
+teams.mal.ares.Ares
+130
